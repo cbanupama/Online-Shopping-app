@@ -26,3 +26,38 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # Online-Shopping-app
+
+## Home Page
+
+<img width="1425" alt="Screenshot 2023-06-24 at 11 45 45 AM" src="https://github.com/cbanupama/Online-Shopping-app/assets/34545482/a0f204e2-2001-40a7-86ea-50b1dfcdcdc8">
+
+## Cart Page
+
+![Uploading Screenshot 2023-06-24 at 11.48.45 AM.png…]()
+
+## Proceed To Checkout
+
+
+## payment successful page
+
+![Uploading Screenshot 2023-06-24 at 11.56.38 AM.png…]()
+
+## Stripe Payment Details
+
+![Uploading Screenshot 2023-06-24 at 12.08.17 PM.png…]()
+
+![Uploading Screenshot 2023-06-24 at 12.07.17 PM.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
